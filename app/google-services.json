@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "334311448111",
+    "project_id": "parejas-47394097"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334311448111:android:b1e142dd1fc09863",
+        "android_client_info": {
+          "package_name": "org.example.parejas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334311448111-j6jq23jb3jbmm5f5db8vdkdaj1s1biev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.parejas",
+            "certificate_hash": "DDF6C089B77E35FE46A7D4DA48C12E07F0D8640D"
+          }
+        },
+        {
+          "client_id": "334311448111-qrrkfei595kl906jthlfe8eq15opm97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBajDwS6V5TkSsWx339dhL6zxrHP_tYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334311448111:android:13c90c5308906564",
+        "android_client_info": {
+          "package_name": "com.example.googlecastpersonalizada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334311448111-5g2reheg6ij3ii01g1j89fkddctth4sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlecastpersonalizada",
+            "certificate_hash": "F117CABC9211C23B998307F1037D457FB7E6ED94"
+          }
+        },
+        {
+          "client_id": "334311448111-qrrkfei595kl906jthlfe8eq15opm97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBajDwS6V5TkSsWx339dhL6zxrHP_tYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-80381937-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
